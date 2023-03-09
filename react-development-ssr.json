@@ -1,0 +1,8 @@
+    {
+        "imports": {
+            "@kyritochuan/root-config": "//localhost:9000/kyritochuan-root-config.js",
+            "react": "https://cdn.jsdelivr.net/npm/react@16.13.1/umd/react.production.min.js",
+            "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.1/umd/react-dom.production.min.js",
+            "@kyritochuan/poc-react": "//localhost:8500/kyritochuan-poc-react.js"
+        }
+    }
