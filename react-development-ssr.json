@@ -1,6 +1,7 @@
     {
         "imports": {
             "@kyritochuan/root-config": "//localhost:9000/kyritochuan-root-config.js",
+            "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.5.3/lib/system/single-spa.min.js",
             "react": "https://cdn.jsdelivr.net/npm/react@16.13.1/umd/react.production.min.js",
             "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.1/umd/react-dom.production.min.js",
             "@kyritochuan/navbar": "//localhost:8080/kyritochuan-navbar.js"
